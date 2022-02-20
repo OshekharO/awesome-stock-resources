@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/discordiy) 
+## Awesome Stock Resources
 
 > A curated list of awesome stock photography, video and illustration websites.
 
@@ -26,9 +26,6 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [HTML Templates](#html-templates)
 * [Sounds & Music](#sounds--music)
 * [Paid Resources](#paid-resources)
-* [How to Contribute](#how-to-contribute)
-* [How to Share](#how-to-share)
-* [Donate](#donate-heart)
 * [License](#license)
 
 ## Photography
@@ -207,10 +204,8 @@ A mixture of free and open source font resources.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
-* [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
-* [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
 
 ## Icons
 
@@ -219,13 +214,13 @@ A mixture of free and open source font resources.
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
 * [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) 147 8-bit retro style webfont icons for web and mobile
-* [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
 * [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 * [IcoMoon](https://icomoon.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
+* [Iconshock](https://www.iconshock.com/freeicons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Iconstore](https://iconstore.co/) - [:copyright:](https://iconstore.co/license/) Free Icons by First-Class Designers.
 * [Ionicons](http://ionicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
 * [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) Really clean icon set including all major topics.
@@ -264,15 +259,12 @@ A selection of websites offering color schemes.
 * [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
-* [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
-* [CoolHue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-* [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
@@ -325,15 +317,8 @@ And last, but not least, a selection of the best paid resources.
 * [Graphic River](https://graphicriver.net/) - Hand-reviewed graphic assets from a community of designers.
 .
 
-## How to Share
-
-* [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fdiscordiy%2Fawesome-stock-resources%20%23design)
-* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/discordiy/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
-* [Share on Google Plus](https://plus.google.com/share?url=https://github.com/discordiy/awesome-stock-resources)
-* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/discordiy/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Tony Phipps has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tony Phipps](https://twitter.com/neutraltone) has waived all copyright and related or neighboring rights to this work.
